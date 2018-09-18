@@ -6,7 +6,7 @@ const io = require('socket.io').listen(server);
 
 let users = [];
 
-const port = 4200;
+const port = process.env.PORT || 4200;
 
 // View Engine
 app.set('views', path.join(__dirname, 'views'));
