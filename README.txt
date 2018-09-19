@@ -8,3 +8,6 @@ npm start
 
 //OR if you have nodemon installed (npm install -g nodemon)
 nodemon
+for the Demo click on the link 
+.........
+https://chat-appnodejs.herokuapp.com/
